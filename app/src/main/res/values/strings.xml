@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Database</string>
+    <string name="btn_insert_row">Insert a row</string>
+    <string name="btn_query">Query</string>
+</resources>
